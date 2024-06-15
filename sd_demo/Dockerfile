@@ -1,0 +1,1 @@
+FROM siutin/stable-diffusion-webui-docker:latest-cuda
